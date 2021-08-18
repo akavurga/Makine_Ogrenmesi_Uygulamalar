@@ -1,1 +1,1 @@
-# Makine-Örenmesi-Uygulamlar-
+# Makine-Öğrenmesi-Uygulamalar
