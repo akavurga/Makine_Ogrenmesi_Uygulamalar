@@ -1,1 +1,1 @@
-# Makine-renmesi-Uygulamlar-
+# Makine-Örenmesi-Uygulamlar-
